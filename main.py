@@ -1,2 +1,2 @@
-x = "Hello, I am happy today"
-  print(x)
+def Hello():
+  print("Hello, I am happy today")
